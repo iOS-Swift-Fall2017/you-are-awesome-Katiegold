@@ -16,6 +16,7 @@ class ViewController: UIViewController {
     }
 
     let holder = 0
+    let holder2 = 10
     
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
